@@ -1,6 +1,6 @@
 # Hi, I'm Pratheesh 👋
 
-I'm a web developer passionate about building web applications and learning new technologies. I've had a good run with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and currently am testing out C++. I am a big fan of typescript and React. I would like to work on a full-stack web application and learn more about what it takes to scale a web application. The endless possibilities of web applications and software development in general excites me.
+I'm a web developer passionate about building web applications and learning new technologies. I've had a good run with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and currently am testing out rust. I am a big fan of typescript and React. I would like to work on a full-stack web application and learn more about what it takes to scale an application. The endless possibilities of software development excites me.
 
 # You can find me on:
 
